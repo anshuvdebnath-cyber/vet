@@ -52,41 +52,6 @@ We enforced a hard boundary: **Gemma 4 structures and explains; deterministic lo
 * 📋 **Pet Passport & Clinical Handoff QR:** Maintains local pet profiles (species, breed, age, weight, known allergies like Dust Mites, chronic conditions, vaccination logs). Generates an unencrypted, plain-text Clinical Handoff QR Code for 2-second receptionist intake scanning without login delays.
 * 📚 **Offline Hazard Database:** A curated toxicology database searchable by category (*Toxic Food*, *Plant*, *Chemical/Corrosive*, *Medication*, *Bite/Sting*, *Foreign Object*) covering high-risk hazards like Dettol/Phenyl, Zinc Phosphide, Anticoagulants, and Paracetamol/Crocin/Dolo.
 
----
-
-## ⚡ Quick Start & Running Locally
-
-### Prerequisites
-* **Node.js** (v18+)
-* **npm** / **bun**
-
-### Installation & Setup
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/vetlens-edge.git
-   cd vetlens-edge
-   ```
-
-2. **Install dependencies:**
-   ```bash
-   npm install
-   ```
-
-3. **Configure Environment Variables:**
-   Create a `.env` file in the root directory:
-   ```env
-   GEMINI_API_KEY="your_gemini_api_key_here"
-   APP_URL="http://localhost:3000"
-   ```
-
-4. **Run the Development Server:**
-   ```bash
-   npm run dev
-   ```
-   *(On Windows PowerShell if script execution is restricted: `cmd /c npm run dev`)*
-
-5. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
