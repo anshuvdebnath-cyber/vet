@@ -1,0 +1,6 @@
+{
+  "name": "VetLens Edge",
+  "description": "AI-grounded veterinary emergency support with deterministic rule engine severity locking, multilingual Hinglish support, nearby clinic finder, and QR clinical handoff.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

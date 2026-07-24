@@ -1,0 +1,1054 @@
+{
+  "dettol_phenyl": {
+    "display_name": "Dettol / Phenyl (Phenolic Cleaners)",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Rinse exposed skin or mouth thoroughly with plain water immediately.",
+      "Do NOT induce vomiting as phenolics are corrosive and cause severe chemical burns to the esophagus.",
+      "Keep the pet warm and bring them to a veterinarian immediately."
+    ],
+    "mechanism_explanation": "Phenols and chloroxylenol irritate and erode mucosal membranes, causing severe oral/gastrointestinal ulceration, systemic toxic shock, hepatic damage, and methemoglobinemia (especially in cats)."
+  },
+  "rat_poison_zinc_phosphide": {
+    "display_name": "Rat Poison (Zinc Phosphide)",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Do NOT induce vomiting in an unventilated indoor room, as released phosphine gas is toxic to humans as well.",
+      "Prevent the pet from eating or drinking prior to veterinary evaluation.",
+      "Transport to an emergency vet clinic immediately, keeping vehicle windows open for ventilation."
+    ],
+    "mechanism_explanation": "Contact with stomach acid releases phosphine gas, a highly toxic cellular poison that inhibits cytochrome c oxidase, blocking oxidative phosphorylation and leading to severe multisystem organ failure and pulmonary edema."
+  },
+  "rat_poison_anticoagulant": {
+    "display_name": "Rat Poison (Anticoagulant Rodenticide)",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Collect packaging or brand name of the poison to show the veterinarian.",
+      "Contact an emergency vet immediately to assess need for early decontamination or Vitamin K1 therapy.",
+      "Keep pet calm and minimize physical activity to prevent internal bleeding."
+    ],
+    "mechanism_explanation": "Inhibits Vitamin K1 epoxide reductase enzyme, blocking the regeneration of active Vitamin K1 needed to synthesize clotting factors II, VII, IX, and X, leading to delayed life-threatening hemorrhage."
+  },
+  "paracetamol_acetaminophen": {
+    "display_name": "Paracetamol / Acetaminophen (Crocin, Dolo)",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Do NOT give human pain medications to pets.",
+      "Transport the pet to a veterinary clinic immediately for N-acetylcysteine antidotal therapy.",
+      "Observe for cyanosis (muddy blue/brown gums), facial edema, or respiratory distress."
+    ],
+    "mechanism_explanation": "Metabolized into reactive N-acetyl-p-benzoquinone imine (NAPQI) which depletes hepatic glutathione, causing acute hepatocellular necrosis and severe methemoglobinemia (inability of hemoglobin to carry oxygen)."
+  },
+  "easter_lily": {
+    "display_name": "Easter Lily (Lilium longiflorum)",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Rinse paws and mouth if pollen or plant parts are visible.",
+      "Bring the plant sample or photo along with the pet to the vet immediately.",
+      "Seek urgent veterinary care even if no symptoms are shown yet, as acute kidney injury develops rapidly in cats."
+    ],
+    "mechanism_explanation": "Contains an unidentified nephrotoxin causing acute tubular necrosis and acute renal failure in felines; even small ingestions of leaves, petals, or pollen are lethal."
+  },
+  "chocolate_theobromine": {
+    "display_name": "Chocolate (Theobromine & Caffeine)",
+    "severity": "vet_today",
+    "first_aid_steps": [
+      "Determine the type (dark, milk, cocoa powder) and approximate amount ingested.",
+      "Provide fresh water and keep the pet calm and cool.",
+      "Contact a veterinarian promptly to evaluate whether decontamination or cardiac monitoring is required."
+    ],
+    "mechanism_explanation": "Methylxanthines (theobromine and caffeine) competitively inhibit adenosine receptors and phosphodiesterase, resulting in central nervous system stimulation, sinus tachycardia, muscle tremors, and seizures."
+  },
+  "grapes_raisins": {
+    "display_name": "Grapes & Raisins",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Do NOT wait for symptoms to appear before seeking veterinary assistance.",
+      "Contact your vet immediately to induce vomiting if ingestion occurred recently.",
+      "Ensure pet stays hydrated while en route to the clinic."
+    ],
+    "mechanism_explanation": "Contains tartaric acid and potassium bitartrate, which induce severe idiosyncratic nephrotoxicity and acute renal necrosis in dogs."
+  },
+  "onion_garlic": {
+    "display_name": "Onions & Garlic (Allium species)",
+    "severity": "vet_today",
+    "first_aid_steps": [
+      "Remove all access to foods containing cooked, raw, or powdered onions and garlic.",
+      "Monitor pet for pale gums, lethargy, red-tinted urine, or rapid breathing.",
+      "Consult a vet within the day for blood count monitoring and supportive care."
+    ],
+    "mechanism_explanation": "Organosulfur compounds (n-propyl disulfide and thiosulfates) oxidize hemoglobin, leading to Heinz body formation, intravascular hemolysis, and hemolytic anemia."
+  },
+  "bleach_alkali": {
+    "display_name": "Bleach & Alkaline Cleaners",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Flush exposed skin, eyes, or mouth with copious amounts of clean water or milk immediately.",
+      "Do NOT induce vomiting, as regurgitation causes repeat chemical burns to the esophagus.",
+      "Transport to an emergency vet right away with the product label."
+    ],
+    "mechanism_explanation": "Strong alkalis cause liquefactive necrosis, deep tissue penetration, esophageal perforation, and severe ulcerative burns of the oral cavity and upper GI tract."
+  },
+  "pothos_oxalate": {
+    "display_name": "Pothos / Money Plant (Insoluble Oxalates)",
+    "severity": "monitor",
+    "first_aid_steps": [
+      "Wipe out mouth and offer a small amount of milk or water to soothe irritation.",
+      "Monitor for excessive drooling, pawing at the mouth, or swelling.",
+      "Contact a vet if breathing difficulty, persistent vomiting, or extreme throat swelling occurs."
+    ],
+    "mechanism_explanation": "Microscopic needle-like calcium oxalate crystals (raphides) penetrate oral mucosa when chewed, causing immediate localized pain, inflammation, edema, and excessive salivation."
+  },
+  "sago_palm": {
+    "display_name": "Sago Palm (Cycas revoluta)",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Seek emergency veterinary treatment immediately; all parts (especially seeds) are extremely toxic.",
+      "Bring a portion of the plant to confirm identification.",
+      "Do NOT delay medical intervention as liver failure can begin within 24 to 48 hours."
+    ],
+    "mechanism_explanation": "Cycasin and beta-methylamino-L-alanine (BMAA) cause severe liver damage leading to acute hepatic necrosis, gastroenteritis, bleeding diathesis, and neurotoxicity."
+  },
+  "ibuprofen_nsaid": {
+    "display_name": "Ibuprofen & Human NSAIDs",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Never administer human pain relievers to animals.",
+      "Bring the packaging and contact an emergency vet immediately.",
+      "Ensure hydration and prepare for gastric lavage or activated charcoal administration by a professional."
+    ],
+    "mechanism_explanation": "Inhibits cyclooxygenase (COX-1 and COX-2) enzymes, reducing protective gastric prostaglandins and renal blood flow, leading to severe GI ulceration, intestinal perforation, and acute renal failure."
+  },
+  "xylitol": {
+    "display_name": "Xylitol (Artificial Sweetener)",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Check product ingredients (chewing gum, peanut butter, baked goods) for xylitol.",
+      "Seek immediate emergency veterinary care; hypoglycemia can develop in under 30 minutes.",
+      "If conscious and instructed by a vet, rub a small amount of corn syrup or honey on the gums en route."
+    ],
+    "mechanism_explanation": "Triggers rapid, massive insulin release in canine species leading to severe hypoglycemia, and higher doses cause acute hepatic necrosis."
+  },
+  "kerosene_hydrocarbon": {
+    "display_name": "Kerosene & Hydrocarbons",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Do NOT induce vomiting under any circumstances due to high risk of aspiration pneumonia.",
+      "Wipe away excess chemical from fur/skin using warm water and mild soap.",
+      "Proceed to an emergency veterinary clinic immediately in a well-ventilated vehicle."
+    ],
+    "mechanism_explanation": "Low viscosity and high volatility allow easy aspiration into the respiratory tract, destroying surfactant and causing chemical pneumonitis, severe pulmonary edema, and CNS depression."
+  },
+  "unidentified_gastric_distress": {
+    "display_name": "Acute Gastric Distress / Unidentified Vomiting Episode",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Withhold food and water temporarily to prevent repeated retching.",
+      "Do NOT induce vomiting without veterinary instruction.",
+      "Inspect vomitus safely for blood, foreign materials, or packaging.",
+      "Seek emergency veterinary evaluation."
+    ],
+    "mechanism_explanation": "Active emesis and retching posture detected. Cause is currently UNIDENTIFIED (could range from dietary indiscretion or foreign body to unknown toxic ingestion)."
+  },
+  "acute_emesis": {
+    "display_name": "Acute Gastric Distress / Unidentified Vomiting Episode",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Withhold food and water temporarily to prevent repeated retching.",
+      "Do NOT induce vomiting without veterinary instruction.",
+      "Inspect vomitus safely for blood, foreign materials, or packaging.",
+      "Seek emergency veterinary evaluation."
+    ],
+    "mechanism_explanation": "Active emesis and retching posture detected. Cause is currently UNIDENTIFIED (could range from dietary indiscretion or foreign body to unknown toxic ingestion)."
+  },
+  "healthy_normal": {
+    "display_name": "Normal / No Obvious Hazard Detected",
+    "severity": "low",
+    "first_aid_steps": [
+      "No immediate emergency intervention or toxic decontamination needed.",
+      "Provide fresh water and maintain standard daily routine.",
+      "Monitor for any subtle changes in behavior, appetite, or activity level over the next 24 hours."
+    ],
+    "mechanism_explanation": "Physical presentation and clinical symptoms show no evidence of acute chemical toxicity, physical trauma, or emergency distress. Animal is bright, alert, and responsive."
+  },
+  "unknown": {
+    "display_name": "Unknown / Unidentified Hazard",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Prevent any further exposure and keep the pet calm, warm, and in a quiet area.",
+      "Do NOT induce vomiting or administer home remedies without explicit instruction from a veterinarian.",
+      "Collect any suspected substance packaging, vomitus, or plant samples and head to the nearest veterinary clinic immediately."
+    ],
+    "mechanism_explanation": "The potential chemical or biological agent is unidentified; immediate professional medical stabilization, symptomatic support, and toxicological evaluation are required."
+  },
+  "macadamia_nuts": {
+    "display_name": "Macadamia Nuts",
+    "severity": "vet_today",
+    "first_aid_steps": [
+      "Remove access to any remaining nuts immediately.",
+      "Note the approximate quantity ingested and time of ingestion for the vet.",
+      "Monitor for weakness in the hind legs, tremors, or hyperthermia and seek veterinary care."
+    ],
+    "mechanism_explanation": "The exact toxin is unidentified, but it triggers a transient neurological syndrome causing weakness (especially hind-limb), tremors, hyperthermia, and joint stiffness in dogs, typically self-limiting with supportive care."
+  },
+  "avocado": {
+    "display_name": "Avocado (Persin)",
+    "severity": "monitor",
+    "first_aid_steps": [
+      "Remove all avocado flesh, skin, pit, and leaves from the pet's reach.",
+      "Monitor for vomiting, diarrhea, or difficulty breathing.",
+      "Seek veterinary attention if the pit was swallowed whole, due to choking or obstruction risk."
+    ],
+    "mechanism_explanation": "Persin, a fungicidal toxin in avocado leaves, skin, and pit, causes GI upset in most mammals and is especially cardiotoxic to birds and pocket pets; the large pit also poses a mechanical obstruction hazard."
+  },
+  "moldy_food_garbage": {
+    "display_name": "Moldy Food / Garbage Ingestion (Tremorgenic Mycotoxins)",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Prevent further access to garbage, compost, or moldy leftovers.",
+      "Keep the pet in a calm, low-stimulation environment as tremors can worsen with noise and light.",
+      "Seek emergency veterinary care immediately if tremors, seizures, or hyperthermia develop."
+    ],
+    "mechanism_explanation": "Penicillium and Aspergillus molds on spoiled food produce tremorgenic mycotoxins (penitrem A, roquefortine C) that cause severe muscle tremors, ataxia, and seizures by disrupting neurotransmitter regulation."
+  },
+  "bread_dough_yeast": {
+    "display_name": "Raw Bread Dough (Yeast)",
+    "severity": "vet_today",
+    "first_aid_steps": [
+      "Do not induce vomiting if significant time has passed, as dough can expand and cause bloat.",
+      "Feel the abdomen gently for distension and contact a vet promptly.",
+      "Withhold food and water until veterinary guidance is given."
+    ],
+    "mechanism_explanation": "Yeast ferments in the warm, moist stomach environment, producing carbon dioxide (leading to gastric dilatation/bloat) and ethanol, causing alcohol intoxication and metabolic acidosis."
+  },
+  "alcohol_ethanol": {
+    "display_name": "Alcoholic Beverages / Ethanol",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Remove all access to the spilled or remaining alcohol.",
+      "Keep the pet warm, as ethanol causes rapid drops in body temperature.",
+      "Transport to an emergency vet immediately if lethargy, disorientation, or slow breathing is observed."
+    ],
+    "mechanism_explanation": "Ethanol is rapidly absorbed and causes CNS depression, hypoglycemia, metabolic acidosis, and hypothermia; small body size makes pets highly sensitive to even modest amounts."
+  },
+  "caffeine_coffee": {
+    "display_name": "Coffee, Tea & Caffeine Pills",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Identify how much and what form (grounds, beans, pills) was ingested.",
+      "Do not attempt home remedies; caffeine toxicity progresses quickly.",
+      "Seek emergency veterinary care, especially with concentrated sources like coffee grounds or caffeine pills."
+    ],
+    "mechanism_explanation": "Caffeine, a methylxanthine, stimulates the central nervous system and cardiac muscle by blocking adenosine receptors, causing tachycardia, hypertension, tremors, and potentially fatal arrhythmias."
+  },
+  "fatty_table_scraps": {
+    "display_name": "Fatty Foods / Table Scraps (Pancreatitis Risk)",
+    "severity": "vet_today",
+    "first_aid_steps": [
+      "Withhold all fatty or fried foods immediately.",
+      "Offer small amounts of water; do not force feeding.",
+      "Consult a vet if vomiting, abdominal pain (hunched posture), or lethargy develops over the next 24-48 hours."
+    ],
+    "mechanism_explanation": "High-fat meals can trigger premature activation of pancreatic digestive enzymes within the pancreas itself, causing acute pancreatitis, a painful and potentially life-threatening inflammatory condition."
+  },
+  "cooked_bones": {
+    "display_name": "Cooked Bones (Splintering Hazard)",
+    "severity": "vet_today",
+    "first_aid_steps": [
+      "Remove all bone fragments from the pet's environment.",
+      "Check the mouth and gums for visible sharp fragments or bleeding.",
+      "Monitor closely for vomiting, straining, or bloody stool, and see a vet if any occur."
+    ],
+    "mechanism_explanation": "Cooking dehydrates bones, making them brittle; sharp splinters can lacerate the mouth, esophagus, or intestines, or cause life-threatening obstruction or perforation."
+  },
+  "nutmeg": {
+    "display_name": "Nutmeg",
+    "severity": "monitor",
+    "first_aid_steps": [
+      "Remove access to any baked goods or spice containing nutmeg.",
+      "Monitor for disorientation, tremors, or elevated heart rate.",
+      "Contact a vet if large amounts were ingested or neurological signs appear."
+    ],
+    "mechanism_explanation": "Myristicin, a compound in nutmeg, has hallucinogenic and anticholinergic properties that can cause disorientation, tremors, seizures, and elevated heart rate at high doses."
+  },
+  "moldy_walnuts": {
+    "display_name": "Moldy Walnuts (Tremorgenic Mycotoxins)",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Prevent access to any nuts found under trees or in storage.",
+      "Keep the pet calm and in a quiet, dim area.",
+      "Seek emergency veterinary care if tremors or seizures develop."
+    ],
+    "mechanism_explanation": "Moldy walnuts harbor Penicillium mold producing tremorgenic mycotoxins that overstimulate the central nervous system, leading to severe tremors and seizures similar to other moldy-food toxicities."
+  },
+  "salt_excess_sodium": {
+    "display_name": "Excess Salt / Sodium (Playdough, Rock Salt, Seawater)",
+    "severity": "vet_today",
+    "first_aid_steps": [
+      "Offer small, frequent amounts of fresh water rather than large volumes at once.",
+      "Watch for vomiting, swelling, tremors, or seizures.",
+      "Seek veterinary care promptly, as rapid rehydration can be dangerous and needs professional management."
+    ],
+    "mechanism_explanation": "Excess sodium draws water out of cells and into the bloodstream, causing hypernatremia; rapid correction is dangerous, and severe cases lead to cerebral edema, tremors, and seizures."
+  },
+  "raw_meat_bacteria": {
+    "display_name": "Raw or Spoiled Meat (Bacterial Contamination)",
+    "severity": "monitor",
+    "first_aid_steps": [
+      "Remove all remaining spoiled or raw meat from the pet's reach.",
+      "Provide access to fresh water to prevent dehydration from GI upset.",
+      "See a vet if vomiting, diarrhea, fever, or lethargy persists beyond 24 hours."
+    ],
+    "mechanism_explanation": "Pathogenic bacteria such as Salmonella, Listeria, and E. coli or their toxins cause gastroenteritis, and in severe cases, systemic bacteremia or sepsis."
+  },
+  "corn_cob": {
+    "display_name": "Corn Cob (Foreign Body Obstruction)",
+    "severity": "vet_today",
+    "first_aid_steps": [
+      "Do not attempt to remove a lodged cob from the throat yourself if visible and pet is distressed; seek emergency help.",
+      "Withhold food and monitor for vomiting, straining, or lack of appetite.",
+      "Seek veterinary imaging (X-ray) promptly, as corn cobs commonly cause intestinal obstruction."
+    ],
+    "mechanism_explanation": "Corn cobs are poorly digestible and fibrous; they frequently lodge in the stomach or intestines, causing partial or complete mechanical obstruction that often requires surgical removal."
+  },
+  "aspirin_salicylate": {
+    "display_name": "Aspirin (Salicylate) Toxicity",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Do not give any further doses of aspirin or other salicylate-containing products.",
+      "Bring the medication packaging and known dosage/time to the vet.",
+      "Seek emergency veterinary care due to risk of GI ulceration and metabolic disturbance."
+    ],
+    "mechanism_explanation": "Salicylates inhibit cyclooxygenase enzymes and uncouple oxidative phosphorylation, causing GI ulceration, metabolic acidosis, hyperthermia, and in cats particularly severe toxicity due to slow drug clearance."
+  },
+  "ssri_antidepressant": {
+    "display_name": "SSRI / Antidepressant Medication",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Remove any remaining pills or packaging from the pet's environment.",
+      "Note the medication name, strength, and estimated quantity ingested.",
+      "Transport to an emergency vet promptly, as serotonin syndrome can develop rapidly."
+    ],
+    "mechanism_explanation": "Excess serotonin accumulation in the CNS from SSRI overdose leads to serotonin syndrome, presenting as agitation, tremors, hyperthermia, seizures, and cardiovascular instability."
+  },
+  "adhd_stimulant_medication": {
+    "display_name": "ADHD Stimulant Medication (Amphetamines/Methylphenidate)",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Keep the pet in a calm, low-stimulus area to avoid worsening agitation.",
+      "Bring the medication packaging to identify exact substance and dose.",
+      "Seek emergency veterinary treatment immediately due to risk of severe cardiac and neurologic effects."
+    ],
+    "mechanism_explanation": "Stimulant medications flood the CNS with dopamine and norepinephrine, causing severe hyperactivity, tremors, seizures, dangerously elevated heart rate, and hyperthermia."
+  },
+  "beta_blocker_calcium_channel": {
+    "display_name": "Beta Blockers & Calcium Channel Blockers (Blood Pressure Medication)",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Do not attempt to induce vomiting without veterinary guidance given rapid cardiac effects.",
+      "Note which medication and how many tablets are missing.",
+      "Seek emergency veterinary cardiac monitoring immediately, as these drugs are highly toxic in small overdoses."
+    ],
+    "mechanism_explanation": "These medications block cardiac calcium or beta-adrenergic receptors, causing profound bradycardia, hypotension, and cardiogenic shock that can be rapidly fatal even in small ingested amounts."
+  },
+  "vitamin_d_overdose": {
+    "display_name": "Vitamin D3 Supplement Overdose / Cholecalciferol",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Remove access to any remaining supplement or rodenticide bait containing cholecalciferol.",
+      "Note the product and estimated dose ingested for the vet.",
+      "Seek emergency veterinary care immediately, as toxic effects on kidneys develop over several days."
+    ],
+    "mechanism_explanation": "Excess Vitamin D3 raises blood calcium and phosphorus to dangerous levels, causing widespread soft tissue mineralization and acute kidney failure, often with delayed onset of symptoms."
+  },
+  "iron_supplement": {
+    "display_name": "Iron Supplements / Prenatal Vitamins",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Remove all remaining tablets and packaging from reach.",
+      "Note the quantity and iron content (mg elemental iron) ingested.",
+      "Seek emergency veterinary care, as iron toxicity progresses in delayed stages over 12-24 hours."
+    ],
+    "mechanism_explanation": "Free iron catalyzes production of reactive oxygen species, causing direct corrosive GI injury followed by cellular damage to the liver, heart, and vasculature, with a deceptive symptom-free period before organ failure."
+  },
+  "benzodiazepine_sleep_aid": {
+    "display_name": "Benzodiazepines / Sleep Aids",
+    "severity": "vet_today",
+    "first_aid_steps": [
+      "Keep the pet safe from falls or injury as sedation and incoordination develop.",
+      "Note the medication name and dose ingested.",
+      "Contact a veterinarian promptly for monitoring and possible decontamination."
+    ],
+    "mechanism_explanation": "Benzodiazepines enhance GABA-mediated inhibition in the CNS, causing profound sedation, ataxia, and respiratory depression; paradoxically some cats may show agitation instead of sedation."
+  },
+  "topical_steroid_cream": {
+    "display_name": "Topical Steroid or Hormone Creams",
+    "severity": "monitor",
+    "first_aid_steps": [
+      "Wash any cream residue off the pet's skin, mouth, or paws with mild soap and water.",
+      "Prevent further licking by using an e-collar if needed.",
+      "Contact a vet if repeated or large-quantity ingestion occurs, especially with hormone-based creams."
+    ],
+    "mechanism_explanation": "Ingested topical corticosteroids or hormone creams can be systemically absorbed via the GI tract, potentially causing GI upset, and with repeated exposure, iatrogenic Cushingoid effects or hormonal disruption."
+  },
+  "insulin_overdose": {
+    "display_name": "Insulin Overdose (Accidental Double-Dosing)",
+    "severity": "critical",
+    "first_aid_steps": [
+      "If the pet is conscious and able to swallow, offer a small amount of corn syrup or honey on the gums per vet instruction.",
+      "Watch closely for weakness, disorientation, tremors, or collapse.",
+      "Seek emergency veterinary care immediately, as severe hypoglycemia can be life-threatening."
+    ],
+    "mechanism_explanation": "Excess exogenous insulin drives glucose rapidly into cells, causing profound hypoglycemia that starves the brain of energy, leading to weakness, seizures, coma, and potentially death if untreated."
+  },
+  "ace_inhibitor": {
+    "display_name": "ACE Inhibitor Blood Pressure Medication Overdose",
+    "severity": "vet_today",
+    "first_aid_steps": [
+      "Note the medication and number of tablets missing.",
+      "Monitor for weakness, lethargy, or collapse.",
+      "Contact a veterinarian promptly for blood pressure and kidney function monitoring."
+    ],
+    "mechanism_explanation": "ACE inhibitors excessively dilate blood vessels, causing hypotension, and can impair kidney perfusion, particularly in overdose or in pets with pre-existing kidney disease."
+  },
+  "birth_control_pills": {
+    "display_name": "Oral Contraceptive / Hormone Pills",
+    "severity": "monitor",
+    "first_aid_steps": [
+      "Remove remaining pills and packaging from the pet's reach.",
+      "Monitor for mild GI upset over the following 24 hours.",
+      "Contact a vet if repeated ingestion occurs or signs of bone marrow suppression appear over time (lethargy, pale gums)."
+    ],
+    "mechanism_explanation": "Estrogen-containing pills, in significant or repeated doses, can suppress bone marrow function leading to anemia, and cause reproductive tract or mammary tissue changes with chronic exposure."
+  },
+  "oleander": {
+    "display_name": "Oleander (Nerium oleander)",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Remove any plant material from the mouth and rinse gently with water.",
+      "Do not induce vomiting without veterinary guidance due to cardiac risk.",
+      "Seek emergency veterinary care immediately; even a few leaves can be fatal."
+    ],
+    "mechanism_explanation": "Contains cardiac glycosides (oleandrin) that inhibit the sodium-potassium ATPase pump in heart muscle, causing severe arrhythmias, bradycardia, and potentially fatal cardiac arrest."
+  },
+  "azalea_rhododendron": {
+    "display_name": "Azalea / Rhododendron",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Remove plant material from the mouth and rinse with water.",
+      "Monitor for drooling, vomiting, weakness, or collapse.",
+      "Seek emergency veterinary care immediately due to risk of cardiac and neurologic collapse."
+    ],
+    "mechanism_explanation": "Grayanotoxins bind to sodium channels in cell membranes, causing prolonged depolarization that leads to vomiting, weakness, hypotension, cardiac arrhythmias, and potential coma."
+  },
+  "tulip_daffodil_bulbs": {
+    "display_name": "Tulip & Daffodil Bulbs",
+    "severity": "vet_today",
+    "first_aid_steps": [
+      "Remove all bulb fragments from the pet's environment.",
+      "Rinse the mouth with water if plant material is visible.",
+      "Contact a vet promptly, especially if the bulb (most toxic part) was chewed or swallowed."
+    ],
+    "mechanism_explanation": "Bulbs contain concentrated allergenic lactones and alkaloids that cause intense GI irritation, drooling, vomiting, and diarrhea; large ingestions can cause cardiac and respiratory effects."
+  },
+  "autumn_crocus": {
+    "display_name": "Autumn Crocus (Colchicum autumnale)",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Do not induce vomiting without veterinary direction, as symptoms can be delayed and severe.",
+      "Bring plant material or a photo for identification.",
+      "Seek emergency veterinary treatment immediately; toxicity can be severe and multi-organ."
+    ],
+    "mechanism_explanation": "Colchicine disrupts cell division (mitosis) in rapidly dividing cells, causing severe GI hemorrhage, bone marrow suppression, and multi-organ failure that can be delayed by hours to days."
+  },
+  "foxglove": {
+    "display_name": "Foxglove (Digitalis purpurea)",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Remove plant material from the mouth and rinse with water.",
+      "Keep the pet calm and minimize exertion.",
+      "Seek emergency veterinary cardiac care immediately, as ingestion can be rapidly fatal."
+    ],
+    "mechanism_explanation": "Cardiac glycosides (digoxin-like compounds) disrupt cellular sodium-potassium exchange in heart muscle, causing life-threatening arrhythmias and heart block."
+  },
+  "dieffenbachia": {
+    "display_name": "Dieffenbachia (Dumb Cane)",
+    "severity": "monitor",
+    "first_aid_steps": [
+      "Rinse the mouth thoroughly with water or offer milk to soothe irritation.",
+      "Monitor for drooling, pawing at the face, or swelling of the tongue/throat.",
+      "Seek veterinary care if swelling progresses or breathing becomes difficult."
+    ],
+    "mechanism_explanation": "Insoluble calcium oxalate crystals cause immediate mechanical irritation and intense burning pain upon contact with oral mucosa, occasionally severe enough to cause airway swelling."
+  },
+  "aloe_vera": {
+    "display_name": "Aloe Vera (Plant, not gel)",
+    "severity": "monitor",
+    "first_aid_steps": [
+      "Remove access to the plant.",
+      "Offer fresh water and monitor for vomiting or diarrhea.",
+      "Contact a vet if lethargy, tremors, or reddish urine appear."
+    ],
+    "mechanism_explanation": "Anthraquinone glycosides in the plant's latex layer act as GI irritants and cathartics, causing vomiting, diarrhea, and occasionally changes in urine color."
+  },
+  "poinsettia": {
+    "display_name": "Poinsettia (Euphorbia pulcherrima)",
+    "severity": "low",
+    "first_aid_steps": [
+      "Wipe milky sap from skin or mouth with a damp cloth.",
+      "Offer fresh water; mild GI upset may occur.",
+      "Contact a vet only if vomiting or drooling is persistent or severe."
+    ],
+    "mechanism_explanation": "The milky latex sap contains mild irritant compounds (diterpenoid esters) causing mouth and stomach irritation; toxicity is generally overstated and rarely more than mild self-limiting GI upset."
+  },
+  "philodendron": {
+    "display_name": "Philodendron",
+    "severity": "monitor",
+    "first_aid_steps": [
+      "Rinse the mouth with water and offer a small amount of milk.",
+      "Watch for drooling, pawing at the mouth, or difficulty swallowing.",
+      "Contact a vet if swelling of the mouth/throat or breathing difficulty develops."
+    ],
+    "mechanism_explanation": "Contains insoluble calcium oxalate crystals similar to pothos and dieffenbachia, causing immediate oral irritation, drooling, and localized inflammation upon chewing."
+  },
+  "english_ivy": {
+    "display_name": "English Ivy (Hedera helix)",
+    "severity": "monitor",
+    "first_aid_steps": [
+      "Remove any leaf fragments from the mouth and rinse with water.",
+      "Monitor for vomiting, diarrhea, or abdominal pain.",
+      "Contact a vet if symptoms are severe or persistent."
+    ],
+    "mechanism_explanation": "Triterpenoid saponins (hederagenin) irritate the GI lining, causing vomiting, diarrhea, and drooling; concentrated in the leaves more than the berries."
+  },
+  "hyacinth": {
+    "display_name": "Hyacinth (Bulb)",
+    "severity": "vet_today",
+    "first_aid_steps": [
+      "Remove all bulb material from the pet's environment.",
+      "Rinse the mouth with water if bulb material was chewed.",
+      "Contact a vet promptly, as the bulb is far more toxic than the flower."
+    ],
+    "mechanism_explanation": "Similar to tulips, hyacinth bulbs contain allergenic alkaloids concentrated in the outer layers that cause intense GI irritation, profuse drooling, and vomiting."
+  },
+  "chrysanthemum": {
+    "display_name": "Chrysanthemum (Mum)",
+    "severity": "monitor",
+    "first_aid_steps": [
+      "Remove plant material from the pet's mouth.",
+      "Offer fresh water and monitor for GI upset.",
+      "Contact a vet if drooling, incoordination, or skin irritation develops."
+    ],
+    "mechanism_explanation": "Contains pyrethrins, natural insecticidal compounds that irritate the GI tract and skin, and in larger amounts can cause incoordination and drooling."
+  },
+  "castor_bean": {
+    "display_name": "Castor Bean (Ricinus communis)",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Do not induce vomiting without explicit veterinary instruction.",
+      "Collect any chewed bean fragments for identification.",
+      "Seek emergency veterinary treatment immediately; even one chewed seed can be lethal."
+    ],
+    "mechanism_explanation": "Contains ricin, an extremely potent toxin that inhibits protein synthesis in cells, causing severe GI hemorrhage, seizures, and multi-organ failure."
+  },
+  "cyclamen": {
+    "display_name": "Cyclamen",
+    "severity": "vet_today",
+    "first_aid_steps": [
+      "Remove plant material from the pet's mouth and environment.",
+      "Rinse mouth with water; monitor for vomiting.",
+      "Contact a vet promptly if the tuber (root) was chewed, as it is the most toxic part and can cause cardiac effects."
+    ],
+    "mechanism_explanation": "Terpenoid saponins concentrated in the root/tuber cause severe GI irritation, and in large ingestions can lead to cardiac arrhythmias and seizures."
+  },
+  "kalanchoe": {
+    "display_name": "Kalanchoe",
+    "severity": "vet_today",
+    "first_aid_steps": [
+      "Remove access to the plant.",
+      "Monitor closely for vomiting, diarrhea, or abnormal heart rhythm.",
+      "Contact a vet promptly, especially if lethargy or weakness is observed."
+    ],
+    "mechanism_explanation": "Contains cardiac glycosides similar to (though generally milder than) oleander, which can disrupt normal heart rhythm in addition to causing GI irritation."
+  },
+  "yew": {
+    "display_name": "Yew (Taxus species)",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Remove all plant material from the mouth immediately.",
+      "Do not delay care even if the pet appears initially normal.",
+      "Seek emergency veterinary treatment immediately, as ingestion can cause sudden cardiac death."
+    ],
+    "mechanism_explanation": "Taxine alkaloids block cardiac sodium and calcium channels, causing severe arrhythmias, tremors, and sudden collapse or death, sometimes without preceding GI signs."
+  },
+  "holly_mistletoe_berries": {
+    "display_name": "Holly & Mistletoe Berries",
+    "severity": "monitor",
+    "first_aid_steps": [
+      "Remove remaining berries or leaves from the pet's reach.",
+      "Offer fresh water and monitor for vomiting or diarrhea.",
+      "Contact a vet if lethargy, drooling, or cardiovascular signs develop, especially with mistletoe."
+    ],
+    "mechanism_explanation": "Holly's saponins cause GI irritation, while mistletoe contains lectins and viscotoxins that can cause more significant vomiting, diarrhea, and in large ingestions, cardiovascular effects."
+  },
+  "tomato_green_parts": {
+    "display_name": "Tomato Plant (Green Parts & Unripe Fruit)",
+    "severity": "monitor",
+    "first_aid_steps": [
+      "Remove access to the tomato plant, stems, and unripe fruit.",
+      "Monitor for vomiting, diarrhea, drowsiness, or drooling.",
+      "Contact a vet if significant amounts of green plant material were consumed."
+    ],
+    "mechanism_explanation": "Solanine, a glycoalkaloid concentrated in the stems, leaves, and unripe green fruit, causes GI upset and, in large quantities, CNS depression; ripe red tomato fruit is largely non-toxic."
+  },
+  "rhubarb_leaves": {
+    "display_name": "Rhubarb Leaves",
+    "severity": "vet_today",
+    "first_aid_steps": [
+      "Remove all leaf material from the pet's environment.",
+      "Rinse the mouth with water if leaves were chewed.",
+      "Contact a vet promptly, as calcium oxalate content can affect kidney function in larger ingestions."
+    ],
+    "mechanism_explanation": "High concentrations of soluble calcium oxalates bind blood calcium and can crystallize in the kidneys, causing tremors, drooling, and potential kidney injury in significant ingestions."
+  },
+  "rat_poison_bromethalin": {
+    "display_name": "Rat Poison (Bromethalin)",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Do not induce vomiting without veterinary guidance, as onset can be delayed.",
+      "Bring the product packaging to identify the active ingredient and concentration.",
+      "Seek emergency veterinary care immediately, as there is no specific antidote and early decontamination is critical."
+    ],
+    "mechanism_explanation": "Bromethalin uncouples oxidative phosphorylation in nerve cells, causing cerebral edema and progressive neurological signs such as tremors, seizures, hind-limb weakness, and paralysis."
+  },
+  "organophosphate_pesticide": {
+    "display_name": "Organophosphate / Carbamate Pesticides",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Wash contaminated skin or fur thoroughly with mild soap and water, wearing gloves.",
+      "Do not induce vomiting if the pet is already showing neurological symptoms.",
+      "Seek emergency veterinary care immediately, as specific antidotal therapy (atropine) may be needed."
+    ],
+    "mechanism_explanation": "These pesticides inhibit acetylcholinesterase, causing accumulation of acetylcholine at nerve synapses, resulting in excessive salivation, tremors, diarrhea, difficulty breathing, and potential respiratory failure."
+  },
+  "mothballs_naphthalene": {
+    "display_name": "Mothballs (Naphthalene)",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Remove all mothballs from the pet's reach immediately.",
+      "Do not induce vomiting without veterinary direction.",
+      "Seek emergency veterinary care, as red blood cell damage can develop over 24-48 hours."
+    ],
+    "mechanism_explanation": "Naphthalene causes oxidative damage to red blood cells, leading to Heinz body formation, hemolytic anemia, and can also cause cataracts and liver damage with significant exposure."
+  },
+  "boric_acid_ant_bait": {
+    "display_name": "Boric Acid / Ant & Roach Bait Stations",
+    "severity": "monitor",
+    "first_aid_steps": [
+      "Remove the bait station from the pet's reach.",
+      "Rinse the mouth with water if the pet chewed the casing.",
+      "Contact a vet if vomiting, diarrhea, or tremors occur, though most bait station ingestions cause only mild upset."
+    ],
+    "mechanism_explanation": "Boric acid and low-concentration insecticidal baits are generally of low toxicity in the small amounts accessible within bait stations, typically causing mild GI irritation; the plastic casing poses a greater obstruction risk than the chemical itself."
+  },
+  "fertilizer_garden": {
+    "display_name": "Garden Fertilizer",
+    "severity": "vet_today",
+    "first_aid_steps": [
+      "Remove the pet from the treated area and rinse paws if contact occurred.",
+      "Offer fresh water to help dilute and flush the GI tract.",
+      "Contact a vet if vomiting, diarrhea, or drooling persists, especially with bone-meal or blood-meal based products."
+    ],
+    "mechanism_explanation": "Nitrogen, phosphorus, and potassium salts irritate the GI lining causing vomiting and diarrhea; bone-meal and blood-meal formulations are highly palatable and can also cause pancreatitis or intestinal obstruction."
+  },
+  "antifreeze_ethylene_glycol": {
+    "display_name": "Antifreeze (Ethylene Glycol)",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Do not wait for symptoms to appear; treatment within hours is critical to prevent kidney failure.",
+      "Prevent access to any spilled antifreeze or coolant.",
+      "Seek emergency veterinary care immediately for antidotal therapy, as this is a leading cause of fatal poisoning."
+    ],
+    "mechanism_explanation": "Ethylene glycol is metabolized into toxic metabolites (glycolic and oxalic acid) that cause severe metabolic acidosis and form calcium oxalate crystals in the kidneys, leading to acute, often fatal, renal failure."
+  },
+  "drain_cleaner_acid": {
+    "display_name": "Drain Cleaner / Strong Acid",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Flush exposed skin or mouth with copious plain water for several minutes.",
+      "Do NOT induce vomiting, as re-exposure causes further corrosive burns.",
+      "Transport to an emergency vet immediately with the product container."
+    ],
+    "mechanism_explanation": "Strong acids cause coagulative necrosis on contact, producing immediate, severe chemical burns to the mouth, esophagus, and stomach, with risk of perforation."
+  },
+  "laundry_detergent_pods": {
+    "display_name": "Laundry Detergent Pods",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Rinse the mouth and face with water immediately if the pod ruptured.",
+      "Do not induce vomiting due to aspiration and chemical burn risk.",
+      "Seek emergency veterinary care immediately, as concentrated detergent causes rapid and severe injury."
+    ],
+    "mechanism_explanation": "Highly concentrated detergent bursts under bite pressure, causing corrosive injury to the oral cavity and esophagus, and if aspirated, severe chemical pneumonitis and pulmonary edema."
+  },
+  "fabric_softener_sheet": {
+    "display_name": "Fabric Softener Sheets",
+    "severity": "monitor",
+    "first_aid_steps": [
+      "Remove any remaining sheet fragments from the pet's mouth.",
+      "Offer fresh water and monitor for drooling or mild vomiting.",
+      "Contact a vet if signs progress beyond mild GI upset or if a large piece was swallowed (obstruction risk)."
+    ],
+    "mechanism_explanation": "Cationic surfactants in fabric softener are mild GI and mucosal irritants at typical exposure levels, though the fabric itself poses a secondary risk of intestinal obstruction if swallowed whole."
+  },
+  "button_battery": {
+    "display_name": "Button Battery Ingestion",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Do not induce vomiting, as this can worsen esophageal injury.",
+      "Do not give food or water, as this can accelerate the chemical reaction.",
+      "Seek emergency veterinary care immediately for imaging and probable removal; tissue damage can occur within hours."
+    ],
+    "mechanism_explanation": "Button batteries generate an electrical current when lodged against moist tissue, causing localized hydrolysis and severe alkaline chemical burns that can perforate the esophagus within hours."
+  },
+  "essential_oil_tea_tree": {
+    "display_name": "Essential Oils (Tea Tree, etc.)",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Wash any oil from the skin or fur using a mild dish soap, as oils are not water-soluble.",
+      "Do not induce vomiting due to aspiration risk with volatile oils.",
+      "Seek emergency veterinary care immediately, especially in cats, which are highly sensitive to essential oils."
+    ],
+    "mechanism_explanation": "Concentrated essential oils are rapidly absorbed through skin and mucous membranes, causing CNS depression, tremors, and liver damage; cats lack the liver enzymes to metabolize many of these compounds, making them especially vulnerable."
+  },
+  "nicotine_cigarettes": {
+    "display_name": "Nicotine (Cigarettes, Vape Liquid, Nicotine Gum)",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Remove all cigarette butts, vape liquid, or nicotine products from reach.",
+      "Do not induce vomiting if the pet is already showing tremors or seizures.",
+      "Seek emergency veterinary care immediately, as liquid nicotine (vape juice) is especially concentrated and dangerous."
+    ],
+    "mechanism_explanation": "Nicotine overstimulates then paralyzes autonomic and neuromuscular receptors, causing an initial phase of vomiting, agitation, and tremors followed by potential collapse, respiratory failure, and cardiac arrest."
+  },
+  "marijuana_cannabis": {
+    "display_name": "Marijuana / Cannabis (THC)",
+    "severity": "vet_today",
+    "first_aid_steps": [
+      "Keep the pet in a safe, padded, low area as coordination is impaired.",
+      "Monitor for urinary dribbling, wobbling gait, or extreme drowsiness.",
+      "Contact a veterinarian promptly, particularly if edibles (which may also contain chocolate or xylitol) were ingested."
+    ],
+    "mechanism_explanation": "THC binds cannabinoid receptors in the CNS, causing profound sedation, ataxia, disorientation, and urinary incontinence; edible forms carry added risk from co-ingested toxic ingredients like chocolate or xylitol."
+  },
+  "hand_sanitizer": {
+    "display_name": "Hand Sanitizer (Ethanol-Based)",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Wipe any excess sanitizer from fur or paws.",
+      "Keep the pet warm, as ethanol causes rapid hypothermia.",
+      "Seek emergency veterinary care immediately if disorientation, vomiting, or lethargy develops."
+    ],
+    "mechanism_explanation": "Alcohol-based hand sanitizer is a concentrated ethanol source that is rapidly absorbed, causing CNS depression, hypoglycemia, and dangerous drops in body temperature, especially in small pets."
+  },
+  "silica_gel_packet": {
+    "display_name": "Silica Gel Packets",
+    "severity": "low",
+    "first_aid_steps": [
+      "Remove the packet and any torn pieces from the pet's mouth.",
+      "Offer fresh water; silica gel itself is generally non-toxic.",
+      "Contact a vet only if choking, obstruction signs, or persistent vomiting occur (from the packet material, not the silica)."
+    ],
+    "mechanism_explanation": "Silica gel is chemically inert and non-toxic; the primary risk is mechanical, from choking on or obstruction by the paper/plastic packet material rather than the desiccant beads themselves."
+  },
+  "paint_thinner_solvent": {
+    "display_name": "Paint Thinner / Industrial Solvents",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Move the pet to fresh air immediately if fumes are present.",
+      "Do not induce vomiting due to high aspiration and chemical burn risk.",
+      "Seek emergency veterinary care immediately, as solvents affect the lungs, CNS, and liver."
+    ],
+    "mechanism_explanation": "Volatile organic solvents are readily absorbed through inhalation and skin, causing CNS depression, respiratory irritation, and if aspirated, severe chemical pneumonitis and pulmonary edema."
+  },
+  "super_glue_adhesive": {
+    "display_name": "Super Glue / Cyanoacrylate Adhesive",
+    "severity": "vet_today",
+    "first_aid_steps": [
+      "Do not attempt to pry apart glued fur, skin, or lips forcefully; use warm water and mineral oil per vet advice.",
+      "Prevent the pet from chewing at glued areas.",
+      "Contact a vet promptly if glue has bonded the mouth shut, is near the eyes, or was swallowed in significant amounts."
+    ],
+    "mechanism_explanation": "Cyanoacrylate polymerizes almost instantly on contact with moisture, causing rapid bonding of tissue surfaces (lips, eyelids, fur to skin) and, if swallowed, potential mechanical obstruction from a hardened mass."
+  },
+  "pool_chlorine_chemicals": {
+    "display_name": "Pool Chemicals (Chlorine Tablets/Shock)",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Flush any exposed skin, paws, or mouth thoroughly with plain water.",
+      "Do not induce vomiting, as these are corrosive oxidizing agents.",
+      "Seek emergency veterinary care immediately with the product label."
+    ],
+    "mechanism_explanation": "Concentrated chlorine-based pool chemicals are strong oxidizers and corrosives that cause chemical burns to the mouth and GI tract and can release irritant gases if mixed with other chemicals."
+  },
+  "deet_insect_repellent": {
+    "display_name": "DEET Insect Repellent",
+    "severity": "vet_today",
+    "first_aid_steps": [
+      "Wash any repellent off the skin or fur with mild soap and water.",
+      "Monitor for drooling, vomiting, tremors, or incoordination.",
+      "Contact a vet promptly, especially if a concentrated product was ingested or applied directly to the pet."
+    ],
+    "mechanism_explanation": "DEET is absorbed through skin and GI tract and acts as a CNS irritant, causing drooling, vomiting, tremors, and in significant exposures, seizures and skin irritation."
+  },
+  "motor_oil_petroleum": {
+    "display_name": "Motor Oil / Petroleum Products",
+    "severity": "vet_today",
+    "first_aid_steps": [
+      "Wipe excess oil from fur using a mild dish soap, not solvents.",
+      "Do not induce vomiting due to aspiration risk.",
+      "Contact a vet promptly, especially if the pet ingested oil while grooming or licking contaminated fur."
+    ],
+    "mechanism_explanation": "Petroleum hydrocarbons cause GI irritation if ingested and pose an aspiration pneumonia risk; prolonged skin contact can also cause dermatitis and, with grooming, secondary ingestion."
+  },
+  "glow_stick_jewelry": {
+    "display_name": "Glow Sticks / Glow Jewelry (Dibutyl Phthalate)",
+    "severity": "monitor",
+    "first_aid_steps": [
+      "Rinse the mouth with water and offer a treat or food to mask the bad taste, which usually stops further chewing.",
+      "Monitor for excessive drooling or foaming at the mouth, which is common but usually resolves quickly.",
+      "Contact a vet if vomiting or lethargy persists beyond a short period."
+    ],
+    "mechanism_explanation": "The bittering agent and dibutyl phthalate contents cause an intensely unpleasant taste and mild oral irritation, leading to profuse drooling and foaming, but are of low systemic toxicity."
+  },
+  "bee_wasp_sting": {
+    "display_name": "Bee / Wasp Sting",
+    "severity": "monitor",
+    "first_aid_steps": [
+      "If a stinger is visible, scrape it out sideways with a flat edge rather than squeezing it.",
+      "Apply a cold compress to the sting site to reduce swelling.",
+      "Seek emergency veterinary care immediately if facial swelling, hives, vomiting, or difficulty breathing occurs (signs of anaphylaxis)."
+    ],
+    "mechanism_explanation": "Venom components cause localized histamine release, pain, and swelling; in sensitized animals, a systemic IgE-mediated allergic reaction can rapidly progress to life-threatening anaphylaxis and airway swelling."
+  },
+  "snake_bite_venomous": {
+    "display_name": "Venomous Snake Bite",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Keep the pet as still and calm as possible to slow venom spread; carry them rather than let them walk.",
+      "Do not attempt to suck out venom, apply a tourniquet, or ice the wound.",
+      "Transport to an emergency vet immediately, as antivenom is time-sensitive."
+    ],
+    "mechanism_explanation": "Snake venom contains a complex mix of enzymes and toxins that can cause local tissue necrosis, disruption of blood clotting, neuromuscular paralysis, and cardiovascular collapse depending on the species."
+  },
+  "scorpion_sting": {
+    "display_name": "Scorpion Sting",
+    "severity": "vet_today",
+    "first_aid_steps": [
+      "Wash the sting site gently with soap and water.",
+      "Apply a cold compress to reduce pain and swelling.",
+      "Seek veterinary care promptly, especially for small pets or if tremors, drooling, or agitation develop."
+    ],
+    "mechanism_explanation": "Scorpion venom contains neurotoxins that cause intense localized pain, and in more toxic species, systemic effects such as muscle twitching, drooling, and cardiovascular changes."
+  },
+  "spider_bite_venomous": {
+    "display_name": "Venomous Spider Bite (Black Widow / Recluse)",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Try to safely identify or capture the spider for the veterinarian if possible.",
+      "Keep the pet calm and restrict movement to slow venom spread.",
+      "Seek emergency veterinary care immediately, as symptoms can be delayed but severe."
+    ],
+    "mechanism_explanation": "Widow spider venom causes uncontrolled neurotransmitter release leading to severe muscle rigidity and pain, while recluse spider venom causes localized tissue necrosis (a slow-healing ulcerating wound)."
+  },
+  "tick_paralysis": {
+    "display_name": "Tick Paralysis",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Carefully remove any attached ticks using fine-tipped tweezers, grasping close to the skin.",
+      "Note the time of removal, as recovery can take 24-72 hours after the tick is removed.",
+      "Seek emergency veterinary care immediately if weakness, wobbliness, or difficulty breathing is present."
+    ],
+    "mechanism_explanation": "Certain tick species inject a neurotoxin in their saliva that blocks neuromuscular transmission, causing progressive ascending paralysis that can affect the respiratory muscles if untreated."
+  },
+  "toad_poisoning_bufo": {
+    "display_name": "Toad Poisoning (Bufo/Cane Toad)",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Rinse the pet's mouth thoroughly with a hose or running water, pointing the head downward to prevent swallowing runoff.",
+      "Wipe the gums with a cloth to remove residual toxin.",
+      "Seek emergency veterinary care immediately, as cardiac symptoms can develop rapidly."
+    ],
+    "mechanism_explanation": "Bufotoxins secreted by the toad's parotid glands are cardiac glycosides that cause profuse drooling, disorientation, seizures, and life-threatening cardiac arrhythmias upon mouthing or biting the toad."
+  },
+  "centipede_bite": {
+    "display_name": "Centipede Bite",
+    "severity": "monitor",
+    "first_aid_steps": [
+      "Clean the bite area with mild soap and water.",
+      "Apply a cold compress to reduce localized pain and swelling.",
+      "Contact a vet if swelling spreads significantly or the pet shows signs of an allergic reaction."
+    ],
+    "mechanism_explanation": "Centipede venom contains a mix of enzymes and peptides causing significant localized pain and inflammation, with systemic reactions being uncommon but possible in sensitive individuals."
+  },
+  "jellyfish_sting": {
+    "display_name": "Jellyfish Sting",
+    "severity": "vet_today",
+    "first_aid_steps": [
+      "Rinse the affected area with seawater (not fresh water, which can worsen sting release) to remove tentacle fragments.",
+      "Avoid rubbing the area, which can trigger further venom release.",
+      "Seek veterinary care promptly if swelling, pain, or systemic symptoms develop."
+    ],
+    "mechanism_explanation": "Nematocysts embedded in the skin continue to inject venom upon mechanical disturbance, causing intense local pain, inflammation, and occasionally systemic allergic or cardiovascular reactions."
+  },
+  "ant_bite_fire_ant": {
+    "display_name": "Fire Ant Bites",
+    "severity": "monitor",
+    "first_aid_steps": [
+      "Brush off any remaining ants from the fur immediately.",
+      "Apply a cold compress to reduce swelling at bite sites.",
+      "Seek veterinary care if widespread hives, facial swelling, or breathing difficulty develops (anaphylaxis)."
+    ],
+    "mechanism_explanation": "Fire ant venom (piperidine alkaloids) causes intense local burning and pustule formation, and in sensitized animals, a systemic allergic reaction can occur."
+  },
+  "heatstroke": {
+    "display_name": "Heatstroke / Hyperthermia",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Move the pet immediately to a cool, shaded, or air-conditioned area.",
+      "Apply cool (not ice-cold) water to the body, especially the belly, ears, and paw pads, and use a fan to aid evaporation.",
+      "Transport to an emergency vet immediately, even if the pet appears to recover, as internal organ damage can develop later."
+    ],
+    "mechanism_explanation": "Elevated core body temperature above a critical threshold denatures cellular proteins and disrupts organ perfusion, leading to multi-organ dysfunction, disseminated intravascular coagulation, and potential death if not rapidly corrected."
+  },
+  "hypothermia_frostbite": {
+    "display_name": "Hypothermia / Frostbite",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Move the pet to a warm, dry environment immediately.",
+      "Wrap the pet in warm, dry blankets or towels; avoid direct heat sources like heating pads that can burn cold-numbed skin.",
+      "Seek emergency veterinary care immediately, especially for suspected frostbite on ears, tail, or paws."
+    ],
+    "mechanism_explanation": "Prolonged cold exposure causes peripheral vasoconstriction to preserve core temperature, leading to reduced blood flow and tissue freezing in extremities (frostbite) and, systemically, dangerous slowing of heart rate, breathing, and metabolism."
+  },
+  "electrical_cord_shock": {
+    "display_name": "Electrical Cord Bite / Electrocution",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Turn off and unplug the power source before touching the pet, or use a non-conductive object to separate them from the cord.",
+      "Check for breathing and be prepared to note any burns around the mouth.",
+      "Seek emergency veterinary care immediately, as electrical injury can cause delayed pulmonary edema."
+    ],
+    "mechanism_explanation": "Electrical current passing through tissue causes localized thermal burns at contact points and can also disrupt normal cardiac rhythm and trigger fluid accumulation in the lungs (electric shock-induced pulmonary edema)."
+  },
+  "linear_foreign_body": {
+    "display_name": "Linear Foreign Body (String, Thread, Tinsel)",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Do NOT pull on any visible string protruding from the mouth or rectum.",
+      "Prevent the pet from vomiting or straining further, as this can worsen intestinal damage.",
+      "Seek emergency veterinary care immediately, as linear foreign bodies can saw through and perforate the intestines."
+    ],
+    "mechanism_explanation": "A string anchored at one point (often under the tongue) while the rest passes into the intestines causes the intestines to bunch and can saw through the bowel wall as peristalsis attempts to move it, leading to perforation and peritonitis."
+  },
+  "fishing_hook_ingestion": {
+    "display_name": "Fishing Hook Ingestion or Impalement",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Do not attempt to remove a hook that is deeply embedded or swallowed.",
+      "If a line is attached, cut it short but do not pull on it.",
+      "Seek emergency veterinary care immediately for safe sedated removal or endoscopy."
+    ],
+    "mechanism_explanation": "Barbed hooks anchor firmly into tissue and resist removal without tearing; internally, they risk perforating the esophagus, stomach, or intestines if pulled improperly."
+  },
+  "smoke_inhalation": {
+    "display_name": "Smoke Inhalation (House Fire)",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Move the pet to fresh air immediately.",
+      "Watch for coughing, labored breathing, or blue-tinged gums.",
+      "Seek emergency veterinary care immediately, even if breathing seems normal, as pulmonary injury can worsen over 24-48 hours."
+    ],
+    "mechanism_explanation": "Smoke contains carbon monoxide, cyanide compounds, and hot particulate matter that impair oxygen delivery, cause direct thermal and chemical injury to airway tissue, and can lead to delayed pulmonary edema."
+  },
+  "choking_airway_obstruction": {
+    "display_name": "Choking / Airway Obstruction",
+    "severity": "critical",
+    "first_aid_steps": [
+      "If the pet can still cough or breathe, allow them to try to clear the object themselves; do not intervene forcefully.",
+      "If fully obstructed, carefully perform a pet-specific Heimlich maneuver if trained, or sweep the mouth to remove visible objects only.",
+      "Rush to an emergency vet immediately regardless of outcome, to check for internal injury."
+    ],
+    "mechanism_explanation": "A lodged object mechanically blocks airflow through the trachea, rapidly leading to hypoxia; even after removal, the airway tissue can be traumatized and require evaluation."
+  },
+  "trauma_fall_hbc": {
+    "display_name": "Trauma (Fall, Hit-by-Vehicle, Blunt Injury)",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Minimize movement of the pet and use a flat board or blanket as a stretcher if a spinal injury is suspected.",
+      "Control any external bleeding with firm, direct pressure using a clean cloth.",
+      "Transport to an emergency vet immediately, as internal injuries are often not visible externally."
+    ],
+    "mechanism_explanation": "Blunt force trauma can cause internal hemorrhage, organ rupture, pneumothorax, or spinal injury that may not be immediately apparent, making prompt imaging and monitoring essential even if the pet appears stable."
+  },
+  "thermal_burn": {
+    "display_name": "Thermal Burns (Hot Liquid, Stove, Fire)",
+    "severity": "vet_today",
+    "first_aid_steps": [
+      "Cool the burned area immediately with cool (not ice-cold) running water for several minutes.",
+      "Do not apply ice, butter, or ointments to the burn.",
+      "Seek veterinary care promptly, as burns can be more severe than they initially appear and are prone to infection."
+    ],
+    "mechanism_explanation": "Heat denatures skin proteins and damages the protective skin barrier, and deeper burns compromise fluid regulation and can quickly become infected, sometimes requiring days to reveal their full extent."
+  },
+  "animal_bite_fight_wound": {
+    "display_name": "Animal Bite / Fight Wound",
+    "severity": "vet_today",
+    "first_aid_steps": [
+      "Gently clean visible wounds with mild soap and water if the pet allows it.",
+      "Apply light pressure with a clean cloth to control any bleeding.",
+      "Seek veterinary care within the day, as puncture wounds often harbor bacteria deep beneath a small entry point and can abscess."
+    ],
+    "mechanism_explanation": "Puncture wounds from teeth introduce bacteria deep into tissue while the small skin opening can seal over, trapping infection beneath the surface and leading to abscess formation if not properly cleaned and treated."
+  },
+  "insect_sting_anaphylaxis": {
+    "display_name": "Allergic Reaction / Anaphylaxis (Vaccine, Sting, or Unknown Trigger)",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Watch closely for facial swelling, hives, vomiting, or collapse.",
+      "Keep the pet calm and minimize exertion.",
+      "Seek emergency veterinary care immediately, as anaphylaxis can progress to airway obstruction or shock within minutes."
+    ],
+    "mechanism_explanation": "An IgE-mediated hypersensitivity reaction triggers massive histamine release, causing widespread vasodilation, airway swelling, and in severe cases, anaphylactic shock and cardiovascular collapse."
+  },
+  "near_drowning": {
+    "display_name": "Near-Drowning / Water Aspiration",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Gently allow water to drain from the mouth by positioning the head lower than the body, without excessive delay.",
+      "Check for breathing and begin rescue breathing if trained and the pet is not breathing.",
+      "Transport to an emergency vet immediately, as secondary pulmonary complications can develop hours later."
+    ],
+    "mechanism_explanation": "Water aspiration disrupts pulmonary surfactant and gas exchange, causing hypoxia, and can lead to delayed-onset pulmonary edema or aspiration pneumonia even after apparent initial recovery."
+  },
+  "cocaine_stimulant": {
+    "display_name": "Cocaine / Illicit Stimulant Exposure",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Keep the pet in a calm, quiet, dimly lit space to reduce overstimulation.",
+      "Do not attempt to induce vomiting given rapid CNS stimulation risk.",
+      "Seek emergency veterinary care immediately due to risk of seizures and fatal cardiac arrhythmias."
+    ],
+    "mechanism_explanation": "Potent CNS and cardiovascular stimulation from blocked neurotransmitter reuptake leads to severe tachycardia, hypertension, hyperthermia, tremors, and seizures that can rapidly become fatal."
+  },
+  "methamphetamine_exposure": {
+    "display_name": "Methamphetamine Exposure",
+    "severity": "critical",
+    "first_aid_steps": [
+      "Keep the pet in a safe, padded area to prevent self-injury during agitation.",
+      "Avoid loud noises or bright lights that can worsen agitation.",
+      "Seek emergency veterinary care immediately, as severe hyperthermia and seizures can be rapidly fatal."
+    ],
+    "mechanism_explanation": "Excessive release of dopamine and norepinephrine causes extreme CNS stimulation, agitation, tremors, dangerously elevated body temperature, and life-threatening cardiac arrhythmias."
+  }
+}
